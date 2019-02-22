@@ -20,4 +20,4 @@ API Authentication (Passport) Setup Process: <br><br>
 <img width="1440" alt="screen shot 2019-02-22 at 7 28 42 pm" src="https://user-images.githubusercontent.com/31072206/53245519-1e422d00-36d8-11e9-8906-3f55a2d9f659.png">
 <br>
 **Update Product Details with HTTP Response**
-<<img width="1440" alt="screen shot 2019-02-22 at 8 09 57 pm" src="https://user-images.githubusercontent.com/31072206/53247632-08d00180-36de-11e9-8114-472e2b2fc6de.png">
+<img width="1440" alt="screen shot 2019-02-22 at 8 09 57 pm" src="https://user-images.githubusercontent.com/31072206/53247632-08d00180-36de-11e9-8114-472e2b2fc6de.png">
